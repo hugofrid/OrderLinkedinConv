@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "node-xlsx": "^0.15.0",
-    "read-excel-file": "^4.0.5"
+    "read-excel-file": "^4.1.0"
   }
 }
